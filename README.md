@@ -13,10 +13,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/corporate advisory project-FBD426?style=flat-square&logo=databricks&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/service planning project-86CB06?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/numerous data analysis contests-6EACF0?style=flat-square&logo=simpleanalytics&logoColor=white"/></a>&nbsp
+  
  </p>
 
 <br><br><br>
