@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=feb9c6&height=300&section=header&text=SuBinKim&fontSize=90" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=feb9c6&height=250&section=header&text=SuBinKim&fontSize=90" alt="header">
 </p>
 
 <p align="center" style="font-size: 70px"><b>:seedling: Hi, I'm subin kim :seedling:</b></p>
