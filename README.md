@@ -4,7 +4,7 @@
 
 <p align="center" style="font-size: 70px"><b>:seedling: Hi, I'm subin kim :seedling:</b></p>
 
-<p align="center"> I want to become a planner who will continue to work through rich project experience with a sense of goal of "Let's be the best in planning and strategy using data."</p>
+<p align="center"> "데이터를 활용한 기획과 전략에서 최고가 되자"는 목표의식을 가지고 풍부한 프로젝트 경험을 통해 꾸준히 하는 기획자가 되고 싶은 김수빈입니다.</p>
 
 <br><br><br>
 
