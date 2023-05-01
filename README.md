@@ -4,7 +4,8 @@
 
 <p align="center" style="font-size: 70px"><b>:seedling: Hi, I'm subin kim :seedling:</b></p>
 
-<p align="center"> I want to become a product manager who will continue to work through extensive project experiences with a sense of goal of "Use data analytics to be the best in strategic planning"</p>
+<p align="center"> I want to become a product manager who will continue to work through extensive project experiences with a sense of goal of<br>
+  "Use data analytics to be the best in strategic planning"</p>
 
 <br><br><br>
 
